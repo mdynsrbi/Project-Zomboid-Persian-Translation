@@ -1,0 +1,37 @@
+MakeUp_FA = {
+    MakeUpCategory_Eyes = "ﺎﻫ‌ﻢﺸﭼ",
+    MakeUpCategory_EyesShadow = "ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpCategory_FullFace = "ﻞﻣﺎﮐ ﺕﺭﻮﺻ",
+    MakeUpCategory_Lips = "ﺎﻫ‌ﺐﻟ",
+
+    MakeUpType_EyesCrow = "ﯽﻏﻼﮐ",
+    MakeUpType_EyesRedStripes1 = "1 ﺰﻣﺮﻗ ﻁﻮﻄﺧ",
+    MakeUpType_EyesRedStripes2 = "2 ﺰﻣﺮﻗ ﻁﻮﻄﺧ",
+    MakeUpType_EyesCamo1 = "1 ﯽﻣﺎﻈﻧ",
+    MakeUpType_EyesCamo2 = "2 ﯽﻣﺎﻈﻧ",
+    MakeUpType_EyesCamoStripes = "ﯽﻣﺎﻈﻧ ﻁﻮﻄﺧ",
+    MakeUpType_EyesFootball = "ﯽﻟﺎﺒﺗﻮﻓ",
+
+    MakeUpType_EyeShadowWhite = "ﺪﯿﻔﺳ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpType_EyeShadowLightBlue = "ﻦﺷﻭﺭ ﯽﺑﺁ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpType_EyeShadowBlue = "ﯽﺑﺁ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpType_EyeShadowRed = "ﺰﻣﺮﻗ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpType_EyeShadowPink = "ﯽﺗﺭﻮﺻ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpType_EyeShadowGreen = "ﺰﺒﺳ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+    MakeUpType_EyeShadowYellow = "ﺩﺭﺯ ﻢﺸﭼ‌ﻪﯾﺎﺳ",
+
+    MakeUpType_FullFaceCamo1 = "1 ﻞﻣﺎﮐ ﺕﺭﻮﺻ ﯽﻣﺎﻈﻧ",
+    MakeUpType_FullFaceCamo2 = "2 ﻞﻣﺎﮐ ﺕﺭﻮﺻ ﯽﻣﺎﻈﻧ",
+    MakeUpType_FullFaceWarrior = "ﻮﺠﮕﻨﺟ",
+    MakeUpType_FullFaceClown1 = "1 ﮏﻘﻟﺩ",
+    MakeUpType_FullFaceClown2 = "2 ﮏﻘﻟﺩ",
+    MakeUpType_FullFaceSkull1 = "1 ﻪﻤﺠﻤﺟ",
+    MakeUpType_FullFaceSkull2 = "2 ﻪﻤﺠﻤﺟ",
+
+    MakeUpType_LipsRed = "ﺰﻣﺮﻗ ﺐﻟ ژﺭ",
+    MakeUpType_LipsLightBlue = "ﻦﺷﻭﺭ ﯽﺑﺁ ﺐﻟ ژﺭ",
+    MakeUpType_LipsBlue = "ﯽﺑﺁ ﺐﻟ ژﺭ",
+    MakeUpType_LipsBlack = "ﯽﮑﺸﻣ ﺐﻟ ژﺭ",
+    MakeUpType_LipsGreen = "ﺰﺒﺳ ﺐﻟ ژﺭ",
+    MakeUpType_LipsPink = "ﯽﺗﺭﻮﺻ ﺐﻟ ژﺭ",
+}

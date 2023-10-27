@@ -1,0 +1,37 @@
+MakeUp_FA = {
+    MakeUpCategory_Eyes = "چشم‌ها",
+    MakeUpCategory_EyesShadow = "سایه‌چشم",
+    MakeUpCategory_FullFace = "صورت کامل",
+    MakeUpCategory_Lips = "لب‌ها",
+
+    MakeUpType_EyesCrow = "کلاغی",
+    MakeUpType_EyesRedStripes1 = "خطوط قرمز 1",
+    MakeUpType_EyesRedStripes2 = "خطوط قرمز 2",
+    MakeUpType_EyesCamo1 = "نظامی 1",
+    MakeUpType_EyesCamo2 = "نظامی 2",
+    MakeUpType_EyesCamoStripes = "خطوط نظامی",
+    MakeUpType_EyesFootball = "فوتبالی",
+
+    MakeUpType_EyeShadowWhite = "سایه‌چشم سفید",
+    MakeUpType_EyeShadowLightBlue = "سایه‌چشم آبی روشن",
+    MakeUpType_EyeShadowBlue = "سایه‌چشم آبی",
+    MakeUpType_EyeShadowRed = "سایه‌چشم قرمز",
+    MakeUpType_EyeShadowPink = "سایه‌چشم صورتی",
+    MakeUpType_EyeShadowGreen = "سایه‌چشم سبز",
+    MakeUpType_EyeShadowYellow = "سایه‌چشم زرد",
+
+    MakeUpType_FullFaceCamo1 = "نظامی صورت کامل 1",
+    MakeUpType_FullFaceCamo2 = "نظامی صورت کامل 2",
+    MakeUpType_FullFaceWarrior = "جنگجو",
+    MakeUpType_FullFaceClown1 = "دلقک 1",
+    MakeUpType_FullFaceClown2 = "دلقک 2",
+    MakeUpType_FullFaceSkull1 = "جمجمه 1",
+    MakeUpType_FullFaceSkull2 = "جمجمه 2",
+
+    MakeUpType_LipsRed = "رژ لب قرمز",
+    MakeUpType_LipsLightBlue = "رژ لب آبی روشن",
+    MakeUpType_LipsBlue = "رژ لب آبی",
+    MakeUpType_LipsBlack = "رژ لب مشکی",
+    MakeUpType_LipsGreen = "رژ لب سبز",
+    MakeUpType_LipsPink = "رژ لب صورتی",
+}
